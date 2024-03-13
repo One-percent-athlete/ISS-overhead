@@ -52,6 +52,7 @@ while True:
                 from_addr=my_email, 
                 to_addrs=my_email, 
                 msg=f"Subject:ISS overhead look up\n\nISS is passing above you take a look if you can find it.")
+
 #If the ISS is close to my current position
 # and it is currently dark
 # Then send me an email to tell me to look up.
